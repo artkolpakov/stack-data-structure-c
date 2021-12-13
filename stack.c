@@ -1,10 +1,4 @@
 /*
- * This file is where you should implement your stack.  It already contains
- * skeletons of the functions you need to implement (along with documentation
- * for each function).  Feel free to implement any additional functions you
- * might need.  Also, don't forget to include your name and @oregonstate.edu
- * email address below.
- *
  * Name: Artem Kolpakov
  * Email: kolpakoa@oregonstate.edu
  */
