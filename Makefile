@@ -12,4 +12,4 @@ stack.o: stack.c stack.h
 	$(CC) -c stack.c
 
 clean:
-	rm -f *.o test_stack test_queue test_queue_from_stacks palindrome
+	rm -f *.o test_stack
